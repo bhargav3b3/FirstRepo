@@ -1,1 +1,1 @@
-this is file 2, created after file1
+this is file 2, created after file1, the text here added from remote repo
